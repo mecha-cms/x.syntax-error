@@ -1,3 +1,1 @@
-<?php
-
-// Your extension code goes here.
+<?php foo bar baz
