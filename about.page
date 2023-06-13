@@ -8,5 +8,5 @@ type: Markdown
 version: 1.0.0
 ...
 
-This extension aims to test the installer feature on the [Panel](https://github.com/mecha-cms/x.panel). Panel is
-expected to reject this extension because it contains PHP syntax error.
+The purpose of this extension is to test the installer function on the [Panel](https://github.com/mecha-cms/x.panel).
+Panel is expected to reject this extension because it contains PHP syntax error.
